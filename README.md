@@ -1,5 +1,6 @@
-Interception
-============
+
+#Delete The stage hit indicator and stagelight and key indicator and set background dim to max and itll work based on where you place the QSLP (obviously change the keybinds via code or just roll with the QSLP) also
+this version isnt the LN version so it cant play an complex LN maps :c setup the interception and then run the code 
 
 [Download the latest release][latest-release]
 
